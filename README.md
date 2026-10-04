@@ -4,7 +4,7 @@ Web fiktivní cestovní agentury Travelio.
 
 ## Spuštění
 
-Online verze: *(doplní učitel)*
+Online verze: https://paukner.github.io/travelio/
 
 Lokálně (potřeba Python 3):
 
